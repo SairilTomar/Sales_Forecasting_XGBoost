@@ -31,6 +31,8 @@ This project builds a predictive model to forecast customer sales using historic
 
 
 ==================================================================================>
+
+
 🔹 Motivation
 
 Retail businesses rely heavily on accurate sales forecasting to optimize inventory, reduce costs, and increase profits. Traditional manual forecasting often fails to capture complex sales patterns.
@@ -85,7 +87,7 @@ R²: ~0.85
 
 Example: Actual vs Predicted Sales
 
-
+![Actual vs Predicted Sales](https://github.com/SairilTomar/Sales_Forecasting_XGBoost/blob/main/ActualvsPred.png)
 
 
 🔹 How to Improve Further
