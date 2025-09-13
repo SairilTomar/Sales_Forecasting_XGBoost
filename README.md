@@ -53,4 +53,11 @@ To replicate or extend this project:
 3. **Upload your dataset (train.csv)**
 
 4. **Run all cells to train and evaluate the model**
-  
+
+
+================================================================================>
+## 📁 Dataset
+
+This project uses `train.csv` as the input dataset.  
+If you're cloning this repo, the file is already included.  
+
